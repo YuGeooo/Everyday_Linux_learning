@@ -1,0 +1,13 @@
+#!/bin/bash
+# Show hello
+
+echo -n "Enter your name:"
+read name
+
+echo "Hello, $name !"
+echo 'Hello, $name !'
+
+# echo -e  支持反斜线'/ '控制的字符转换
+# echo -n  不换行输出
+
+# chmod u+x filename 修改文件为可执行
