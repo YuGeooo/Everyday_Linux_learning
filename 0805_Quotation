@@ -1,0 +1,8 @@
+#! /bin/bash
+# Different quotation marks
+
+echo "Today is `date`"
+echo 'Today is `date`'
+
+# 双引号保留 $ \ 等倒引号等特殊字符
+# 单引号内一律始为普通字符
