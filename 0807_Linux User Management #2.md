@@ -1,4 +1,4 @@
-# Linux User Mangement #2
+# Linux User Management #2
 
 **The following  commands are equivalent to modify in those four files directly. **
 
