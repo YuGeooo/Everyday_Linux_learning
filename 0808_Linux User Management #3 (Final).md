@@ -15,6 +15,13 @@ su [option] username
 
 
 
+### Show ID
+```shell
+id username
+```
+
+
+
 ### Group Management
 
 ```shell
